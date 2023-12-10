@@ -69,7 +69,7 @@ Prepare comprehensive reports summarizing key insights and proposed strategies.
 4. Dashboard | Loan Overview
 ![Screenshot (54)](https://github.com/GBsuraj/Project/assets/99246520/56c827b2-9f39-4326-a162-bd6df64ce581)
 
-5 Dashboard | Client details
+5. Dashboard | Client details
 ![Screenshot (55)](https://github.com/GBsuraj/Project/assets/99246520/393994cd-bef7-4170-a34b-e3522b45475d)
 
 ## Key Insights
