@@ -61,7 +61,6 @@ Prepare comprehensive reports summarizing key insights and proposed strategies.
 ![Screenshot (51)](https://github.com/GBsuraj/Project/assets/99246520/77aa5ec6-7668-46c4-ad52-bd457997dc97)
 
 2. Datasheet2
-
 ![Screenshot (52)](https://github.com/GBsuraj/Project/assets/99246520/017b59bc-77f8-4b5f-b857-f44b97d87a1e)
 
 3. Connecting datasheets/Data Modelling
