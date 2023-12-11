@@ -56,21 +56,10 @@ Step 7:
 Prepare comprehensive reports summarizing key insights and proposed strategies.
 
 ## Snapshots
+### Dashboard | Loan Overview
 
-1. Datasheet1
-![Screenshot (51)](https://github.com/GBsuraj/Project/assets/99246520/77aa5ec6-7668-46c4-ad52-bd457997dc97)
+### Dashboard | Client details
 
-2. Datasheet2
-![Screenshot (52)](https://github.com/GBsuraj/Project/assets/99246520/017b59bc-77f8-4b5f-b857-f44b97d87a1e)
-
-3. Connecting datasheets/Data Modelling
-![Screenshot (53)](https://github.com/GBsuraj/Project/assets/99246520/41c63075-e32c-4c55-9d03-1c771a7134c6)
-
-4. Dashboard | Loan Overview
-![Screenshot (54)](https://github.com/GBsuraj/Project/assets/99246520/56c827b2-9f39-4326-a162-bd6df64ce581)
-
-5. Dashboard | Client details
-![Screenshot (55)](https://github.com/GBsuraj/Project/assets/99246520/393994cd-bef7-4170-a34b-e3522b45475d)
 
 ## Key Insights
 
