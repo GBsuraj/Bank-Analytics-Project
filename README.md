@@ -1,7 +1,7 @@
 
 # Bank Analytics-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/974cb6c7-411f-45d1-980b-b879fdc19b18/ReportSectiondca79156267064f8f717?experience=power-bi
+## Dashboard Link : https://app.powerbi.com/groups/me/reports/974cb6c7-411f-45d1-980b-b879fdc19b18/ReportSectiondca79156267064f8f717?experience=power-bi
 
 ## Problem Statement
 
@@ -9,19 +9,19 @@ The bank aims to optimize its lending operations and improve overall portfolio p
 
 The bank seeks to address the following key challenges:
 
-Risk Management:
+- Risk Management:
 Identify high-risk loan categories based on verification status, loan grade, and other relevant factors.
 Develop strategies to minimize default rates and mitigate risks associated with specific loan attributes.
 
-Operational Efficiency:
+- Operational Efficiency:
 Optimize loan approval processes by understanding the performance of loans with different verification statuses, terms, and grades.
 Streamline operations to improve overall efficiency and reduce the time taken for loan approval and processing.
 
-Market Adaptation:
+- Market Adaptation:
 Stay competitive in the market by understanding trends in loan terms, grades, and issue years.
 Adapt lending strategies to align with market demands and Clients preferences.
 
-Data-Driven Decision-Making:
+- Data-Driven Decision-Making:
 Promote a data-driven culture within the bank by providing actionable insights to decision-makers.
 Implement visualizations and analytics tools that empower stakeholders to make informed decisions regarding loan portfolios.
 
@@ -57,9 +57,9 @@ Prepare comprehensive reports summarizing key insights and proposed strategies.
 
 ## Snapshots
 ### Dashboard | Loan Overview
-
+![Screenshot (54)](https://github.com/GBsuraj/Bank-Analytics-Project/assets/99246520/8467d5ef-817e-4b27-8cd5-9e457150e9bb)
 ### Dashboard | Client details
-
+![Screenshot (55)](https://github.com/GBsuraj/Bank-Analytics-Project/assets/99246520/dbeca6be-09c8-40ee-9fd2-6210b2d8dc0d)
 
 ## Key Insights
 
